@@ -4,7 +4,7 @@ Built with FastAPI, PostgreSQL and Docker.
 
 ## Live demo
 
-**https://blog-api-1-4i64.onrender.com**
+**https://blog-api-1-4i64.onrender.com/docs**
 > Hosted on free tiers (Render + Neon)
 > so the first request may take up a minute to wake up
 
