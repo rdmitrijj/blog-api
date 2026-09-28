@@ -8,6 +8,9 @@ Built with FastAPI, PostgreSQL and Docker.
 > Hosted on free tiers (Render + Neon)
 > so the first request may take up a minute to wake up
 
+![image](https://github.com/rdmitrijj/blog-api/blob/main/preview.png?raw=true)
+
+
 
 ## About
 
