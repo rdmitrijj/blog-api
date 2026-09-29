@@ -1,6 +1,7 @@
 # Blog API
 A REST API for a blogging platform — user accounts, posts, likes and comments.
-Built with FastAPI, PostgreSQL and Docker.
+Built with FastAPI, PostgreSQL and Docker. This project can be seen, using
+Swagger UI, because there is not frontend part.
 
 ## Live demo
 
